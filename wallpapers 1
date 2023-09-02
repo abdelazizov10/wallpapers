@@ -12,46 +12,54 @@
 
 {
       "Name":"Image 2",
-      "ImageURL":"https://cutewallpaper.org/21/720-by-1280-wallpapers/Sunrise-Lake-Art-Work-Wallpaper-720x1280.jpg"
+      "ImageURL":"images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress"
 },
 {
       "Name":"Image 3",
-      "ImageURL":"https://wallpaperaccess.com/full/4898849.png"
+      "ImageURL":"https://images.pexels.com/photos/1141792/pexels-photo-1141792.jpeg?auto=compress"
 },
 {
       "Name":"Image 4",
-      "ImageURL":"https://i.pinimg.com/originals/fb/77/45/fb77455dc9fc50abe5ee8d70d5aca568.jpg"
+      "ImageURL":"https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress"
 },
 {
       "Name":"Image 5",
-      "ImageURL":"https://i.pinimg.com/originals/ea/53/3a/ea533ac59052f95fd04a79da2ca148d9.jpg"
+      "ImageURL":"https://images.pexels.com/photos/1122639/pexels-photo-1122639.jpeg?auto=compress"
 },
 {
       "Name":"Image 6",
-      "ImageURL":"https://i.pinimg.com/originals/ea/0d/cf/ea0dcf405ab3c69827143558b762cdb5.png"
+      "ImageURL":"https://images.pexels.com/photos/1367105/pexels-photo-1367105.jpeg?auto=compress"
 },
 {
       "Name":"Image 7",
-      "ImageURL":"https://traxzee.com/wp-content/uploads/2020/08/Traxzee.Com-086-Minimal-HD-720X1280-Wallpapers.jpg"
+      "ImageURL":"https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress"
 },
 {
       "Name":"Image 8",
-      "ImageURL":"https://www.teahub.io/photos/full/112-1120436_mikael-gustafsson-wallpaper-4k.jpg"
+      "ImageURL":"https://images.pexels.com/photos/719396/pexels-photo-719396.jpeg?auto=compress"
 },
 {
       "Name":"Image 9",
-      "ImageURL":"https://r1.ilikewallpaper.net/pic/201704/deer_horns_moon_stars_4795_1080x1920_640.jpg"
+      "ImageURL":"https://images.pexels.com/photos/1591382/pexels-photo-1591382.jpeg?auto=compress"
 },
 {
       "Name":"Image 10",
-      "ImageURL":"https://i.pinimg.com/originals/b2/21/bc/b221bc46cb8a0acec6f1f767ae2518e9.jpg"
+      "ImageURL":"https://images.pexels.com/photos/1409968/pexels-photo-1409968.jpeg?auto=compress"
 },
 {
       "Name":"Image 11",
-      "ImageURL":"https://s2.best-wallpaper.net/wallpaper/iphone/1806/Bright-deer-in-the-forest-art-drawing_iphone_1080x1920.jpg"
+      "ImageURL":"https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress"
 },
 {
       "Name":"Image 12",
-      "ImageURL":"https://desktopwallpapershd.com/wp-content/uploads/2021/01/Cool-Wallpaper-Galaxy.jpg"
+      "ImageURL":"https://images.pexels.com/photos/2953902/pexels-photo-2953902.jpeg?auto=compress"
+},
+{
+      "Name":"Image 13",
+      "ImageURL":"https://images.pexels.com/photos/3881036/pexels-photo-3881036.jpeg?auto=compress"
+},
+{
+      "Name":"Image 14",
+      "ImageURL":"https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress"
 }
  ]
