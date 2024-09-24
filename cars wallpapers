@@ -28,7 +28,7 @@
 },
 {
       "Name":"Image 6",
-      "ImageURL":"https://images.pexels.com/photos/1409968/pexels-photo-1409968.jpeg?auto=compress"
+      "ImageURL":"https://images.pexels.com/photos/3689533/pexels-photo-3689533.jpeg?auto=compress&cs=tinysrgb&w=600"
 },
 {
       "Name":"Image 7",
@@ -61,5 +61,17 @@
 {
       "Name":"Image 14",
       "ImageURL":"https://images.pexels.com/photos/6584051/pexels-photo-6584051.jpeg?auto=compress"
+},
+{
+      "Name":"Image 15",
+      "ImageURL":"https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg"
+},
+{
+      "Name":"Image 16",
+      "ImageURL":"https://images.pexels.com/photos/1729993/pexels-photo-1729993.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+      "Name":"Image 17",
+      "ImageURL":"https://images.pexels.com/photos/3221159/pexels-photo-3221159.jpeg?auto=compress&cs=tinysrgb&w=600"
 }
  ]
